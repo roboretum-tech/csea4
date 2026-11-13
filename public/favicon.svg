@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%">
+  <!-- Capricorn Naranja Icon Mark -->
+  <g transform="rotate(45 200 200)" stroke="#D9822B" stroke-width="36" stroke-linecap="square" stroke-linejoin="miter" fill="none">
+    <!-- Outer Top-Left Angle & Rail -->
+    <polyline points="50,270 50,10 300,10" />
+    
+    <!-- Inner Top-Left Angle & Rail -->
+    <polyline points="112,208 112,72 238,72" />
+    
+    <!-- Outer Bottom-Right Angle & Rail -->
+    <polyline points="350,130 350,390 100,390" />
+    
+    <!-- Inner Bottom-Right Angle & Rail -->
+    <polyline points="288,192 288,328 162,328" />
+  </g>
+</svg>

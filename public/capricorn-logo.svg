@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%">
+  <!-- Capricorn Naranja Vector Logo -->
+  <g transform="rotate(45 250 205)" stroke="#D9822B" stroke-width="36" stroke-linecap="square" stroke-linejoin="miter" fill="none">
+    <!-- Outer Top-Left Angle & Rail -->
+    <polyline points="100,320 100,60 350,60" />
+    
+    <!-- Inner Top-Left Angle & Rail -->
+    <polyline points="162,258 162,122 288,122" />
+    
+    <!-- Outer Bottom-Right Angle & Rail -->
+    <polyline points="400,90 400,350 150,350" />
+    
+    <!-- Inner Bottom-Right Angle & Rail -->
+    <polyline points="338,152 338,288 212,288" />
+  </g>
+  
+  <!-- Wordmark -->
+  <text 
+    x="250" 
+    y="446" 
+    text-anchor="middle" 
+    fill="#D9822B" 
+    font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" 
+    font-weight="800" 
+    font-size="52" 
+    letter-spacing="5"
+  >
+    CAPRICORN
+  </text>
+</svg>

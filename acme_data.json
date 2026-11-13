@@ -1,0 +1,364 @@
+{
+  "company": "ACME 280826.1",
+  "sponsor": "WC",
+  "date": "2026-08-28T18:03:12.181Z",
+  "globalIndex": 52,
+  "dimScores": [
+    {
+      "name": "1. Alineación Estratégica",
+      "score": 2.3
+    },
+    {
+      "name": "2. Priorización y Gestión del Portafolio",
+      "score": 2.6
+    },
+    {
+      "name": "3. Gobernanza y Toma de Decisiones",
+      "score": 2.8
+    },
+    {
+      "name": "4. Disciplina de Ejecución",
+      "score": 2.8
+    },
+    {
+      "name": "5. Capacidad Organizacional",
+      "score": 2.5
+    },
+    {
+      "name": "6. Visibilidad y Control Ejecutivo",
+      "score": 2.6
+    }
+  ],
+  "qualitative": [
+    {
+      "name": "1. Alineación Estratégica",
+      "responses": [
+        {
+          "q": "¿La dirección puede explicar con claridad las 3–5 prioridades estratégicas vigentes?",
+          "a": "Puede nombrarlas parcialmente",
+          "s": 3
+        },
+        {
+          "q": "¿Los proyectos estratégicos se justifican por su contribución directa al negocio?",
+          "a": "Algunos sí, otros no",
+          "s": 3
+        },
+        {
+          "q": "¿La entrada de nuevas iniciativas responde a valor y no sólo a urgencia?",
+          "a": "Entra lo urgente",
+          "s": 2
+        },
+        {
+          "q": "¿Los cambios de prioridad están gobernados?",
+          "a": "Cambian sin control",
+          "s": 2
+        },
+        {
+          "q": "¿Los beneficios esperados se entienden desde el inicio?",
+          "a": "No se explican beneficios",
+          "s": 1
+        },
+        {
+          "q": "¿El entrevistado puede citar el nombre del tablero, ritual o mecanismo donde se expresan las prioridades vigentes?",
+          "a": "No identifica ninguno",
+          "s": 2
+        },
+        {
+          "q": "¿Puede describir un proyecto aprobado recientemente y explicar por qué fue prioritario?",
+          "a": "Recuerda un caso sin lógica completa",
+          "s": 3
+        },
+        {
+          "q": "¿Puede describir una iniciativa que se haya pausado o rechazado por falta de alineación?",
+          "a": "Nunca ocurre o no sabe",
+          "s": 2
+        },
+        {
+          "q": "¿Puede explicar quién patrocina los proyectos críticos y qué resultado espera?",
+          "a": "No hay sponsor visible",
+          "s": 2
+        },
+        {
+          "q": "¿Puede relatar una revisión reciente del portafolio donde se haya decidido continuar, pausar o cancelar?",
+          "a": "Existe de forma irregular",
+          "s": 3
+        }
+      ]
+    },
+    {
+      "name": "2. Priorización y Gestión del Portafolio",
+      "responses": [
+        {
+          "q": "¿La organización sabe cuántas iniciativas estratégicas activas tiene realmente?",
+          "a": "Tiene conteo confiable y único",
+          "s": 4
+        },
+        {
+          "q": "¿Los criterios para definir prioridad son claros y compartidos?",
+          "a": "Existen pero son básicos",
+          "s": 3
+        },
+        {
+          "q": "¿Antes de iniciar una iniciativa se valida capacidad real para ejecutarla?",
+          "a": "Se valida a veces",
+          "s": 3
+        },
+        {
+          "q": "¿Los proyectos detenidos o \"zombi\" se identifican oportunamente?",
+          "a": "No se detectan",
+          "s": 2
+        },
+        {
+          "q": "¿La organización puede pausar, secuenciar o rechazar iniciativas cuando es necesario?",
+          "a": "Lo hace parcialmente",
+          "s": 3
+        },
+        {
+          "q": "¿El entrevistado puede decir cuántas iniciativas activas existen hoy y en qué orden de prioridad?",
+          "a": "No puede",
+          "s": 2
+        },
+        {
+          "q": "¿Puede explicar con qué criterio una iniciativa entra al portafolio?",
+          "a": "Hay criterio genérico",
+          "s": 3
+        },
+        {
+          "q": "¿Puede describir un caso reciente de secuenciación, pausa o rechazo?",
+          "a": "No existe",
+          "s": 2
+        },
+        {
+          "q": "¿Puede señalar cuántos proyectos están detenidos, sin sponsor o sin tracción real?",
+          "a": "No lo sabe",
+          "s": 1
+        },
+        {
+          "q": "¿Puede explicar cómo se compara demanda versus capacidad antes de aceptar nuevas iniciativas?",
+          "a": "Se compara de forma informal",
+          "s": 3
+        }
+      ]
+    },
+    {
+      "name": "3. Gobernanza y Toma de Decisiones",
+      "responses": [
+        {
+          "q": "¿Está clara la autoridad para decidir sobre proyectos estratégicos?",
+          "a": "Está clara en algunos casos",
+          "s": 3
+        },
+        {
+          "q": "¿Existen foros regulares y útiles para revisar y decidir?",
+          "a": "Existen pero con eficacia parcial",
+          "s": 3
+        },
+        {
+          "q": "¿Las decisiones críticas se toman con velocidad razonable?",
+          "a": "Se estancan",
+          "s": 2
+        },
+        {
+          "q": "¿Los riesgos y bloqueos pueden escalarse con claridad?",
+          "a": "Hay escalamiento parcial",
+          "s": 3
+        },
+        {
+          "q": "¿Los acuerdos ejecutivos se siguen hasta cierre?",
+          "a": "Seguimiento trazable y puntual",
+          "s": 4
+        },
+        {
+          "q": "¿Puede describirse un caso reciente de decisión crítica: quién decidió, en cuánto tiempo y qué ocurrió después?",
+          "a": "Hay caso, pero incompleto",
+          "s": 3
+        },
+        {
+          "q": "¿El entrevistado puede nombrar foros de gobernanza, frecuencia y participantes?",
+          "a": "No puede",
+          "s": 2
+        },
+        {
+          "q": "¿Puede explicar cómo se eleva un proyecto en rojo?",
+          "a": "Existe de manera informal",
+          "s": 3
+        },
+        {
+          "q": "¿Puede citar un acuerdo ejecutivo reciente y cómo se le dio seguimiento?",
+          "a": "No recuerda ninguno",
+          "s": 2
+        },
+        {
+          "q": "¿Puede distinguir roles de sponsor, líder de proyecto, PM y comité?",
+          "a": "Los distingue parcialmente",
+          "s": 3
+        }
+      ]
+    },
+    {
+      "name": "4. Disciplina de Ejecución",
+      "responses": [
+        {
+          "q": "¿Los proyectos críticos arrancan con planeación realista de alcance, fecha y costo?",
+          "a": "No arrancan así",
+          "s": 2
+        },
+        {
+          "q": "¿El avance real se revisa contra un plan base?",
+          "a": "Se revisa parcialmente",
+          "s": 3
+        },
+        {
+          "q": "¿Los riesgos y problemas se detectan antes de volverse críticos?",
+          "a": "Se detectan a veces",
+          "s": 3
+        },
+        {
+          "q": "¿Los cambios de alcance, fecha y costo se controlan?",
+          "a": "Se controlan a veces",
+          "s": 3
+        },
+        {
+          "q": "¿Los compromisos principales se cumplen con previsibilidad razonable?",
+          "a": "Alta previsibilidad",
+          "s": 4
+        },
+        {
+          "q": "¿Puede explicarse cómo se define el \"plan base\" de un proyecto crítico?",
+          "a": "Existe parcialmente",
+          "s": 3
+        },
+        {
+          "q": "¿Puede describirse cómo se revisa un avance semanal o mensual contra metas?",
+          "a": "No hay mecánica",
+          "s": 2
+        },
+        {
+          "q": "¿Puede narrarse un riesgo reciente detectado a tiempo y la acción tomada?",
+          "a": "Hay ejemplo ambiguo",
+          "s": 3
+        },
+        {
+          "q": "¿Puede describirse un cambio reciente de alcance o fecha y cómo se aprobó?",
+          "a": "Cambia sin control",
+          "s": 2
+        },
+        {
+          "q": "¿Puede estimarse, aunque sea de forma ejecutiva, qué porcentaje de proyectos termina en tiempo y presupuesto?",
+          "a": "Hay percepción aproximada",
+          "s": 3
+        }
+      ]
+    },
+    {
+      "name": "5. Capacidad Organizacional",
+      "responses": [
+        {
+          "q": "¿Los recursos y líderes clave están realmente disponibles para las prioridades?",
+          "a": "Algunos sí",
+          "s": 3
+        },
+        {
+          "q": "¿La carga y multitarea de recursos críticos es manejable?",
+          "a": "No es manejable",
+          "s": 2
+        },
+        {
+          "q": "¿Están identificados los cuellos de botella por roles o áreas?",
+          "a": "Se conocen parcialmente",
+          "s": 3
+        },
+        {
+          "q": "¿Existe continuidad suficiente si un recurso clave se ausenta o sale?",
+          "a": "No existe",
+          "s": 2
+        },
+        {
+          "q": "¿La organización puede mover recursos hacia prioridades críticas con rapidez?",
+          "a": "Puede a veces",
+          "s": 3
+        },
+        {
+          "q": "¿Puede describirse cuántos proyectos atiende al mismo tiempo un recurso crítico típico?",
+          "a": "No se sabe",
+          "s": 2
+        },
+        {
+          "q": "¿Puede identificarse el principal cuello de botella actual?",
+          "a": "Se identifica vagamente",
+          "s": 3
+        },
+        {
+          "q": "¿Puede explicarse qué ocurre si una persona clave sale del proyecto?",
+          "a": "No hay respuesta",
+          "s": 2
+        },
+        {
+          "q": "¿Puede citarse un caso reciente de reasignación de capacidad hacia una prioridad crítica?",
+          "a": "Existe, pero improvisado",
+          "s": 3
+        },
+        {
+          "q": "¿Puede describirse cómo se coordinan áreas o líderes cuando comparten recursos?",
+          "a": "No se describe",
+          "s": 2
+        }
+      ]
+    },
+    {
+      "name": "6. Visibilidad y Control Ejecutivo",
+      "responses": [
+        {
+          "q": "¿La dirección recibe visibilidad suficiente del estado del portafolio?",
+          "a": "La recibe parcialmente",
+          "s": 3
+        },
+        {
+          "q": "¿La información presentada es confiable y oportuna?",
+          "a": "No es confiable",
+          "s": 2
+        },
+        {
+          "q": "¿Los riesgos críticos se vuelven visibles antes de materializarse?",
+          "a": "A veces",
+          "s": 3
+        },
+        {
+          "q": "¿Los reportes ayudan a decidir y no sólo a informar?",
+          "a": "Ayudan parcialmente",
+          "s": 3
+        },
+        {
+          "q": "¿Los indicadores y semáforos se usan con lógica consistente entre iniciativas?",
+          "a": "No hay consistencia",
+          "s": 2
+        },
+        {
+          "q": "¿El entrevistado puede explicar qué ve hoy un director al revisar el portafolio?",
+          "a": "Puede dar visión parcial",
+          "s": 3
+        },
+        {
+          "q": "¿Puede decir con qué frecuencia se actualiza la información y quién la consolida?",
+          "a": "No lo sabe",
+          "s": 2
+        },
+        {
+          "q": "¿Puede identificar qué proyectos están \"en rojo\" y por qué?",
+          "a": "Puede parcialmente",
+          "s": 3
+        },
+        {
+          "q": "¿Puede explicar qué decisión ejecutiva reciente surgió de un reporte?",
+          "a": "Hay ejemplo débil",
+          "s": 3
+        },
+        {
+          "q": "¿Puede describir la lógica de semáforos o KPIs entre proyectos?",
+          "a": "No existe o es arbitraria",
+          "s": 2
+        }
+      ]
+    }
+  ]
+}

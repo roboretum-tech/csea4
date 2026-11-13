@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+.markdown-body table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.25rem 0;
+  font-size: 0.875rem;
+}
+
+.markdown-body th {
+  background-color: #0f172a;
+  color: #ffffff;
+  font-weight: 600;
+  text-align: left;
+  padding: 0.625rem 0.875rem;
+  border: 1px solid #1e293b;
+}
+
+.markdown-body td {
+  padding: 0.5rem 0.875rem;
+  border: 1px solid #e2e8f0;
+  vertical-align: top;
+}
+
+.markdown-body tr:nth-child(even) {
+  background-color: #f8fafc;
+}

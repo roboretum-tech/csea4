@@ -1,0 +1,44 @@
+{
+  "entities": {
+    "applicants": {
+      "title": "Applicants",
+      "description": "Empresas diagnosticadas y evaluadas en CSEA v4.0 con aislamiento multi-inquilino por consultor",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "companyName": { "type": "string" },
+        "sponsorName": { "type": "string" },
+        "email": { "type": "string" },
+        "phone": { "type": "string" },
+        "consultorId": { "type": "string" },
+        "consultorEmail": { "type": "string" },
+        "createdBy": { "type": "string" },
+        "assignedConsultor": { "type": "string" },
+        "timestamp": { "type": "string" }
+      },
+      "required": ["id", "companyName"]
+    },
+    "consultores": {
+      "title": "Consultores",
+      "description": "Consultores autorizados para el portal CSEA v4.0",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "name": { "type": "string" },
+        "email": { "type": "string" },
+        "password": { "type": "string" }
+      },
+      "required": ["name"]
+    }
+  },
+  "firestore": {
+    "/applicants/{applicantId}": {
+      "schema": "applicants",
+      "description": "Registros de empresas creados y gestionados exclusivamente por cada consultor"
+    },
+    "/consultores/{consultorId}": {
+      "schema": "consultores",
+      "description": "Cuentas y perfiles de consultores autorizados"
+    }
+  }
+}

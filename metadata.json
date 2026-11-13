@@ -1,0 +1,6 @@
+{
+  "name": "CSEA v4.0 - Capricorn Strategic Execution Assessment",
+  "description": "Evaluación metodológica integral de ejecución estratégica y arquitectura de 18 secciones ejecutivas para C-Level.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
